@@ -5,6 +5,7 @@
 
 def main():
     print('world')
+    print('and more')
 
 if __name__=='__main__':
     main()
